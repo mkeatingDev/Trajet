@@ -13,6 +13,7 @@ import javax.swing.JFrame;
  *         Code to handle the game. This includes gamestates and rendering Class
  *         also sets up the JFrame
  */
+
 public class TrajetHandler extends JFrame implements Runnable {
 
 	private static final long serialVersionUID = 1L;
